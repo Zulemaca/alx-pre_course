@@ -1,6 +1,2 @@
 #!/bin/bash
 echo "ALX"
-clear
-C
-docker exec -it
-docker exec -it <root@9e079a81414a> /bin/bash
